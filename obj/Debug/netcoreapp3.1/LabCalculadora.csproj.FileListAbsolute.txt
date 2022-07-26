@@ -1,0 +1,16 @@
+C:\Users\evela\source\repos\LabCalculadora\bin\Debug\netcoreapp3.1\LabCalculadora.exe
+C:\Users\evela\source\repos\LabCalculadora\bin\Debug\netcoreapp3.1\LabCalculadora.deps.json
+C:\Users\evela\source\repos\LabCalculadora\bin\Debug\netcoreapp3.1\LabCalculadora.runtimeconfig.json
+C:\Users\evela\source\repos\LabCalculadora\bin\Debug\netcoreapp3.1\LabCalculadora.runtimeconfig.dev.json
+C:\Users\evela\source\repos\LabCalculadora\bin\Debug\netcoreapp3.1\LabCalculadora.dll
+C:\Users\evela\source\repos\LabCalculadora\bin\Debug\netcoreapp3.1\LabCalculadora.pdb
+C:\Users\evela\source\repos\LabCalculadora\obj\Debug\netcoreapp3.1\LabCalculadora.csproj.AssemblyReference.cache
+C:\Users\evela\source\repos\LabCalculadora\obj\Debug\netcoreapp3.1\LabCalculadora.Form1.resources
+C:\Users\evela\source\repos\LabCalculadora\obj\Debug\netcoreapp3.1\LabCalculadora.csproj.GenerateResource.cache
+C:\Users\evela\source\repos\LabCalculadora\obj\Debug\netcoreapp3.1\LabCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evela\source\repos\LabCalculadora\obj\Debug\netcoreapp3.1\LabCalculadora.AssemblyInfoInputs.cache
+C:\Users\evela\source\repos\LabCalculadora\obj\Debug\netcoreapp3.1\LabCalculadora.AssemblyInfo.cs
+C:\Users\evela\source\repos\LabCalculadora\obj\Debug\netcoreapp3.1\LabCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\evela\source\repos\LabCalculadora\obj\Debug\netcoreapp3.1\LabCalculadora.dll
+C:\Users\evela\source\repos\LabCalculadora\obj\Debug\netcoreapp3.1\LabCalculadora.pdb
+C:\Users\evela\source\repos\LabCalculadora\obj\Debug\netcoreapp3.1\LabCalculadora.genruntimeconfig.cache
